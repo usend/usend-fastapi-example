@@ -1,6 +1,6 @@
 # Send with FastAPI
 
-Send email from a FastAPI endpoint with the usend SDK, off the event loop.
+Send email from a FastAPI endpoint with the uSend SDK, off the event loop.
 
 Part of [usend examples](https://github.com/usend/usend-examples). Step-by-step guide: https://usend.et/docs/quickstarts/fastapi
 
